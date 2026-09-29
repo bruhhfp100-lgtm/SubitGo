@@ -207,6 +207,3 @@ Aquí se incluirán las fuentes, documentación y recursos utilizados durante el
 Aquí se incluirán las instrucciones necesarias para que un usuario pueda utilizar y configurar el proyecto.
 
 </details>
-
-
-asi?
