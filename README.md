@@ -1,146 +1,212 @@
-# SubitGo
-Proyecto AI Asistente
+# Proyecto
 
----
+<details>
+<summary><strong>1. Índice</strong></summary>
 
 ## Índice
-1. [Introducción](#introducción---qué-estamos-haciendo)
-2. [Briefing de ideas](#briefing-de-ideas)
-3. [Arquitectura del software](#arquitectura-del-software)
-4. [Tecnologías a utilizar](#tecnologías-a-utilizar)
-5. [Red](#red)
-   - [Diagrama de la red](#diagrama-de-la-red)
-   - [Mapa físico](#mapa-físico)
-   - [Mapa lógico](#mapa-lógico)
-6. [Web](#web)
-   - [Diseño](#diseño)
-   - [Mockup](#mockup)
-   - [Mapa de navegabilidad](#mapa-de-navegabilidad)
-7. [Base de datos](#base-de-datos)
-8. [Servicios](#servicios)
-9. [DNS](#dns)
-10. [DHCP](#dhcp)
-11. [Apache](#apache)
-12. [Firewall](#firewall)
-13. [Copias de seguridad](#copias-de-seguridad)
-14. [Conclusiones](#conclusiones)
-15. [Bibliografía](#bibliografía)
-16. [Guías de usuario](#guías-de-usuario)
 
----
+1. [Introducción](#2-introducción---qué-estamos-haciendo)
+2. [Briefing de ideas](#3-briefing-de-ideas)
+3. [Arquitectura del software](#4-arquitectura-del-software)
+4. [Tecnologías a utilizar](#5-tecnologías-a-utilizar)
+5. [Red](#6-red)
+6. [Diagrama de la red](#7-diagrama-de-la-red)
+7. [Mapa físico](#8-mapa-físico)
+8. [Mapa lógico](#9-mapa-lógico)
+9. [Web](#10-web)
+10. [Diseño](#11-diseño)
+11. [Mockup](#12-mockup)
+12. [Mapa de navegabilidad](#13-mapa-de-navegabilidad)
+13. [Base de datos](#14-base-de-datos)
+14. [Servicios](#15-servicios-explicado-de-un-modo-sencillo-vinculado-al-diagrama-de-la-red)
+15. [DNS](#16-dns)
+16. [DHCP](#17-dhcp)
+17. [Apache](#18-apache)
+18. [Firewall](#19-firewall)
+19. [Copias de seguridad](#20-copias-de-seguridad)
+20. [Conclusiones](#21-conclusiones)
+21. [Bibliografía](#22-bibliografía)
+22. [Guías de usuario](#23-guías-de-usuario)
 
-## Introducción - ¿Qué estamos haciendo?
+</details>
 
-*Escribir aquí la introducción del proyecto*
+<details>
+<summary><strong>2. Introducción - ¿Qué estamos haciendo?</strong></summary>
 
----
+Aquí explicaremos de forma general en qué consiste el proyecto, cuáles son sus objetivos y qué problema queremos resolver.
 
-## Briefing de ideas
+</details>
 
-*Escribir aquí el briefing de ideas*
+<details>
+<summary><strong>3. Briefing de ideas</strong></summary>
 
----
+Aquí se recogerán las ideas iniciales, requisitos y objetivos del proyecto.
 
-## Arquitectura del software
+</details>
 
-*Escribir aquí la arquitectura del software*
+<details>
+<summary><strong>4. Arquitectura del software</strong></summary>
 
----
+Aquí se explicará cómo está estructurado el software y cómo se relacionan sus diferentes componentes.
 
-## Tecnologías a utilizar
+</details>
 
-*Escribir aquí las tecnologías a utilizar*
+<details>
+<summary><strong>5. Tecnologías a utilizar</strong></summary>
 
----
+Aquí se detallarán las tecnologías, lenguajes, frameworks y herramientas utilizadas en el proyecto.
 
-## Red
+</details>
 
-### Diagrama de la red
+<details>
+<summary><strong>6. Red</strong></summary>
 
-*Insertar diagrama de la red*
+Aquí se explicará la infraestructura de red utilizada en el proyecto.
 
-### Mapa físico
+</details>
 
-*Escribir aquí el mapa físico de la red*
+<details>
+<summary><strong>7. Diagrama de la red</strong></summary>
 
-### Mapa lógico
+Aquí se incluirá el diagrama de la red.
 
-*Escribir aquí el mapa lógico de la red*
+<!-- Ejemplo:
+![Diagrama de red](./img/diagrama-red.png)
+-->
 
----
+</details>
 
-## Web
+<details>
+<summary><strong>8. Mapa físico</strong></summary>
 
-### Diseño
+Aquí se mostrará la distribución física de los dispositivos y elementos de la red.
 
-*Escribir aquí el diseño de la web*
+<!-- Ejemplo:
+![Mapa físico](./img/mapa-fisico.png)
+-->
 
-### Mockup
+</details>
 
-*Insertar mockup de la web*
+<details>
+<summary><strong>9. Mapa lógico</strong></summary>
 
-### Mapa de navegabilidad
+Aquí se mostrará la estructura lógica de la red, incluyendo subredes, VLAN, direcciones IP, etc.
 
-*Insertar mapa de navegabilidad*
+<!-- Ejemplo:
+![Mapa lógico](./img/mapa-logico.png)
+-->
 
----
+</details>
 
-## Base de datos
+<details>
+<summary><strong>10. Web</strong></summary>
 
-*Escribir aquí la información sobre la base de datos*
+Aquí se explicará la parte web del proyecto.
 
----
+</details>
 
-## Servicios
+<details>
+<summary><strong>11. Diseño</strong></summary>
 
-Explicación de los servicios de un modo sencillo vinculado al diagrama de la red:
+Aquí se explicarán las decisiones de diseño del proyecto.
 
----
+</details>
 
-## DNS
+<details>
+<summary><strong>12. Mockup</strong></summary>
 
-*Escribir aquí la información sobre DNS*
+Aquí se mostrarán los mockups de la aplicación o página web.
 
----
+<!-- Ejemplo:
+![Mockup](./img/mockup.png)
+-->
 
-## DHCP
+</details>
 
-*Escribir aquí la información sobre DHCP*
+<details>
+<summary><strong>13. Mapa de navegabilidad</strong></summary>
 
----
+Aquí se mostrará cómo puede navegar el usuario por las diferentes páginas y secciones.
 
-## Apache
+<!-- Ejemplo:
+![Mapa de navegabilidad](./img/mapa-navegabilidad.png)
+-->
 
-*Escribir aquí la información sobre Apache*
+</details>
 
----
+<details>
+<summary><strong>14. Base de datos</strong></summary>
 
-## Firewall
+Aquí se explicará la estructura de la base de datos, sus tablas, relaciones y funcionamiento.
 
-*Escribir aquí la información sobre Firewall*
+<!-- Ejemplo:
+![Diagrama de base de datos](./img/base-datos.png)
+-->
 
----
+</details>
 
-## Copias de seguridad
+<details>
+<summary><strong>15. Servicios explicado de un modo sencillo (vinculado al diagrama de la red)</strong></summary>
 
-*Escribir aquí la información sobre copias de seguridad*
+Aquí se explicarán de forma sencilla los diferentes servicios utilizados y su relación con el diagrama de red.
 
----
+</details>
 
-## Conclusiones
+<details>
+<summary><strong>16. DNS</strong></summary>
 
-*Escribir aquí las conclusiones del proyecto*
+Aquí se explicará la configuración y funcionamiento del servicio DNS.
 
----
+</details>
 
-## Bibliografía
+<details>
+<summary><strong>17. DHCP</strong></summary>
 
-*Escribir aquí la bibliografía*
+Aquí se explicará la configuración y funcionamiento del servicio DHCP.
 
----
+</details>
 
-## Guías de usuario
+<details>
+<summary><strong>18. Apache</strong></summary>
 
-*Escribir aquí las guías de usuario*
+Aquí se explicará la instalación, configuración y funcionamiento del servidor Apache.
 
----
+</details>
+
+<details>
+<summary><strong>19. Firewall</strong></summary>
+
+Aquí se explicarán las reglas de firewall utilizadas y las medidas de seguridad aplicadas.
+
+</details>
+
+<details>
+<summary><strong>20. Copias de seguridad</strong></summary>
+
+Aquí se explicará el sistema de copias de seguridad, su frecuencia y los datos que se respaldan.
+
+</details>
+
+<details>
+<summary><strong>21. Conclusiones</strong></summary>
+
+Aquí se recogerán las conclusiones finales del proyecto, los objetivos alcanzados y posibles mejoras futuras.
+
+</details>
+
+<details>
+<summary><strong>22. Bibliografía</strong></summary>
+
+Aquí se incluirán las fuentes, documentación y recursos utilizados durante el desarrollo del proyecto.
+
+</details>
+
+<details>
+<summary><strong>23. Guías de usuario</strong></summary>
+
+Aquí se incluirán las instrucciones necesarias para que un usuario pueda utilizar y configurar el proyecto.
+
+</details>
+
+
+asi?
