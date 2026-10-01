@@ -40,7 +40,37 @@ Aquí explicaremos de forma general en qué consiste el proyecto, cuáles son su
 <details>
 <summary><strong>3. Briefing de ideas</strong></summary>
 
-Aquí se recogerán las ideas iniciales, requisitos y objetivos del proyecto.
+**Idea seleccionada**
+
+SubitGo, una aplicación web para la gestión y organización de calendarios de negocios, orientada inicialmente al sector de peluquerías.
+
+**Justificación**
+
+Hemos seleccionado esta idea porque consideramos que cubre una necesidad real y extendida entre pequeños y medianos negocios: la gestión eficiente de citas y horarios. Muchos de estos negocios todavía dependen de agendas físicas o de métodos poco automatizados, lo que genera errores, solapamientos y pérdida de tiempo. Creemos que SubitGo puede convertirse en una herramienta de valor que facilite esta organización y mejore la productividad del negocio.
+
+**Objetivos**
+
+Nuestro objetivo principal es desarrollar un servicio capaz de dar soporte a peluquerías en la gestión de su calendario de citas, ofreciendo una herramienta sencilla, fiable y adaptada a sus necesidades diarias. A medio plazo, el proyecto busca sentar las bases de un producto escalable a otros tipos de negocios con necesidades similares.
+
+**Público objetivo**
+
+El proyecto va dirigido a negocios que necesiten soporte en la organización de su calendario, con especial foco en el sector de peluquerías como caso de uso inicial.
+
+**Módulos del ciclo relacionados**
+
+- Servicios en Red
+- Aplicaciones Web
+- Seguridad Informática
+- Sistemas Operativos en Red
+
+**Materiales necesarios**
+
+- Un PC que actúe como servidor
+- API de un modelo de inteligencia artificial
+
+**Recursos y bibliografía**
+
+- [Koibox](https://koibox.cloud/) — plataforma de referencia del sector que ofrece un servicio similar, útil como punto de comparación funcional y de mercado.
 
 </details>
 
