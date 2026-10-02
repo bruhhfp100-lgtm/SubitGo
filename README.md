@@ -42,11 +42,11 @@ Aquí explicaremos de forma general en qué consiste el proyecto, cuáles son su
 
 **Idea seleccionada**
 
-SubitGo, una aplicación web para la gestión y organización de calendarios de negocios, orientada inicialmente al sector de peluquerías.
+SubitGo, una aplicación web para la gestión y organización de calendarios de negocios, incluyendo un asistente de llamadas IA, orientada inicialmente al sector de peluquerías y incluso restaurantes.
 
 **Justificación**
 
-Hemos seleccionado esta idea porque consideramos que cubre una necesidad real y extendida entre pequeños y medianos negocios: la gestión eficiente de citas y horarios. Muchos de estos negocios todavía dependen de agendas físicas o de métodos poco automatizados, lo que genera errores, solapamientos y pérdida de tiempo. Creemos que SubitGo puede convertirse en una herramienta de valor que facilite esta organización y mejore la productividad del negocio.
+Hemos seleccionado esta idea porque consideramos que cubre una necesidad real y extendida entre pequeños y medianos negocios: la gestión eficiente de citas y horarios. Muchos de estos negocios todavía dependen de agendas físicas o de métodos poco automatizados, lo que genera errores, solapamientos y pérdida de tiempo. Creemos que SubitGo puede convertirse en una herramienta de valor que facilite esta organización y mejore la productividad y la pérdida de tiempo al estar cogiendo llamadas mientras están trabajando en el negocio.
 
 **Objetivos**
 
@@ -54,7 +54,7 @@ Nuestro objetivo principal es desarrollar un servicio capaz de dar soporte a pel
 
 **Público objetivo**
 
-El proyecto va dirigido a negocios que necesiten soporte en la organización de su calendario, con especial foco en el sector de peluquerías como caso de uso inicial.
+El proyecto va dirigido a negocios que necesiten soporte en la organización de su calendario y un staff personal el cual tenga que asistir en llamadas con clientes, con especial foco en el sector de peluquerías como caso de uso inicial.
 
 **Módulos del ciclo relacionados**
 
