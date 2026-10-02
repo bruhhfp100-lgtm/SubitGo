@@ -65,8 +65,20 @@ El proyecto va dirigido a negocios que necesiten soporte en la organización de 
 
 **Materiales necesarios**
 
-- Un PC que actúe como servidor
-- API de un modelo de inteligencia artificial
+*Materiales físicos*
+
+- PC que actúe como servidor, con capacidad suficiente para alojar la aplicación web y la base de datos.
+- Equipo cliente (dispositivo) para acceder a la aplicación como usuario/negocio.
+- Conexión a red/Internet para la comunicación cliente-servidor y el acceso a la API externa.
+
+*Materiales lógicos*
+
+- Sistema operativo de servidor (Linux, p. ej. Ubuntu Server).
+- Servidor web/aplicación (p. ej. Apache o Nginx) para alojar el backend.
+- Lenguaje y framework de desarrollo web (backend y frontend) para construir la aplicación.
+- Sistema gestor de base de datos (p. ej. MySQL o PostgreSQL) para almacenar citas, usuarios y negocios.
+- API de un modelo de inteligencia artificial, para funciones de asistencia/automatización dentro del servicio.
+- Herramientas de control de versiones (Git/GitHub) para el desarrollo colaborativo y la documentación del proyecto.
 
 **Recursos y bibliografía**
 
