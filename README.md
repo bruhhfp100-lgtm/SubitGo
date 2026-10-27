@@ -162,6 +162,7 @@ Wireframe:
 
 Mockup definitivo:
 <img width="1132" height="822" alt="image" src="https://github.com/user-attachments/assets/9fea5922-ef95-47d4-bcdb-76c58e9573c4" />
+<img width="494" height="744" alt="image" src="https://github.com/user-attachments/assets/99eb75c0-d21a-429d-953c-ec2829be1e8b" />
 
 <!-- Ejemplo:
 ![Mockup](./img/mockup.png)
