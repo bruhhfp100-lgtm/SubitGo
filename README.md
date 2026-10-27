@@ -149,9 +149,6 @@ Aquí se explicará la parte web del proyecto.
 
 <details>
 <summary><strong>11. Diseño</strong></summary>
-
-## 11. Diseño
-
 Para el diseño de SubitGO hemos elegido una tonalidad fría, con colores blancos y verdes, que transmiten profesionalidad, confianza y modernidad. La interfaz está diseñada para que los barberos puedan gestionar sus negocios de forma sencilla y rápida.
 
 ### Diseño asimétrico y distribución
