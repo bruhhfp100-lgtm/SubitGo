@@ -178,10 +178,6 @@ Mockup definitivo:
 
 <img width="1195" height="796" alt="image" src="https://github.com/user-attachments/assets/fba86e96-2c3d-4ebe-a533-98190d4eac65" />
 
-<!-- Ejemplo:
-![Mapa de navegabilidad](./img/mapa-navegabilidad.png)
--->
-
 </details>
 
 <details>
