@@ -150,10 +150,31 @@ Aquí se explicará la parte web del proyecto.
 <details>
 <summary><strong>11. Diseño</strong></summary>
 
-Para el diseño de SubitGo hemos elegido una tonalidad fria, con colores blanco y verde.
-Hemos incorporado una barra lateral de navegación (sidebar) en el lado izquierdo de la interfaz para facilitar el acceso a las diferentes secciones de SubitGO. 
-Su diseño fijo, acompañado de iconos y etiquetas, permite una navegación intuitiva, rápida y coherente en toda la aplicación.
-Hemos elegido este diseño para SubitGO porque transmite profesionalidad, confianza y modernidad, ofreciendo una interfaz clara, intuitiva y fácil de utilizar para los barberos
+## 11. Diseño
+
+Para el diseño de SubitGO hemos elegido una tonalidad fría, con colores blancos y verdes, que transmiten profesionalidad, confianza y modernidad. La interfaz está diseñada para que los barberos puedan gestionar sus negocios de forma sencilla y rápida.
+
+### Diseño asimétrico y distribución
+
+Hemos utilizado un diseño asimétrico, ya que la interfaz no reparte el espacio de forma igual entre todas sus zonas. La barra lateral izquierda ocupa una parte pequeña de la pantalla, mientras que el área principal tiene más espacio para mostrar el contenido de cada apartado. De esta manera, podemos mantener la navegación siempre visible y aprovechar el espacio para consultar calendarios, clientes, estadísticas y facturas.
+
+### Colores y contraste
+
+El verde oscuro de la barra lateral contrasta con los fondos claros del área de trabajo. También utilizamos el verde turquesa para destacar los botones y las acciones principales. Esta combinación permite diferenciar la navegación del contenido y facilita la lectura de la información.
+
+### Equilibrio y organización
+
+La información se distribuye mediante tarjetas, tablas, listas y gráficos, agrupando los elementos que están relacionados entre sí. Por ejemplo, en la página de inicio se muestran primero los datos generales del negocio y después las próximas citas. Esto permite encontrar la información de forma más rápida y evita que la interfaz esté demasiado cargada.
+
+### Consistencia visual
+
+Todas las páginas mantienen una estructura similar, con la misma barra lateral, una paleta de colores común, botones con estilos parecidos y tarjetas con bordes redondeados. Así, el usuario puede moverse entre los diferentes apartados sin tener que aprender una distribución nueva en cada pantalla.
+
+### Tipografía y legibilidad
+
+Hemos elegido una tipografía sencilla y moderna, con textos oscuros sobre fondos claros. Los títulos destacan sobre las descripciones y los datos secundarios, creando una jerarquía que facilita la lectura y permite identificar rápidamente cada apartado.
+
+Buscamos que SubitGO tenga una apariencia moderna y profesional, pero sobre todo que sea una herramienta intuitiva, organizada y práctica para el trabajo diario de una peluquería o centro de estética.
 
 </details>
 
