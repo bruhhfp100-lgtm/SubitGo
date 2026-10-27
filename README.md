@@ -157,7 +157,11 @@ Aquí se explicarán las decisiones de diseño del proyecto.
 <details>
 <summary><strong>12. Mockup</strong></summary>
 
-Aquí se mostrarán los mockups de la aplicación o página web.
+Wireframe:
+<img width="1259" height="775" alt="image" src="https://github.com/user-attachments/assets/1ce6b3df-e9cb-4e77-8c15-8e75eccc0b6a" />
+
+Mockup definitivo:
+<img width="1132" height="822" alt="image" src="https://github.com/user-attachments/assets/9fea5922-ef95-47d4-bcdb-76c58e9573c4" />
 
 <!-- Ejemplo:
 ![Mockup](./img/mockup.png)
@@ -168,7 +172,7 @@ Aquí se mostrarán los mockups de la aplicación o página web.
 <details>
 <summary><strong>13. Mapa de navegabilidad</strong></summary>
 
-Aquí se mostrará cómo puede navegar el usuario por las diferentes páginas y secciones.
+<img width="1195" height="796" alt="image" src="https://github.com/user-attachments/assets/fba86e96-2c3d-4ebe-a533-98190d4eac65" />
 
 <!-- Ejemplo:
 ![Mapa de navegabilidad](./img/mapa-navegabilidad.png)
