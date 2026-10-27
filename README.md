@@ -150,7 +150,10 @@ Aquí se explicará la parte web del proyecto.
 <details>
 <summary><strong>11. Diseño</strong></summary>
 
-Aquí se explicarán las decisiones de diseño del proyecto.
+Para el diseño de SubitGo hemos elegido una tonalidad fria, con colores blanco y verde.
+Hemos incorporado una barra lateral de navegación (sidebar) en el lado izquierdo de la interfaz para facilitar el acceso a las diferentes secciones de SubitGO. 
+Su diseño fijo, acompañado de iconos y etiquetas, permite una navegación intuitiva, rápida y coherente en toda la aplicación.
+Hemos elegido este diseño para SubitGO porque transmite profesionalidad, confianza y modernidad, ofreciendo una interfaz clara, intuitiva y fácil de utilizar para los barberos
 
 </details>
 
